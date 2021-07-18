@@ -1,0 +1,6 @@
+# fastapi
+# pillow
+# python-pptx
+# mecab-python
+# uvicorn
+ginza
