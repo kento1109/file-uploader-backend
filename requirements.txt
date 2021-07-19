@@ -1,6 +1,6 @@
-# fastapi
-# pillow
-# python-pptx
-# mecab-python
-# uvicorn
-ginza
+fastapi
+pillow
+python-pptx
+python-multipart
+uvicorn
+ginza=4.0.0
