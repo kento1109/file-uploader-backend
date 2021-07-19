@@ -29,7 +29,7 @@ class Prop(BaseModel):
 
 @app.get('/hello')
 async def hello():
-    return {"param": "hello world!"}
+    return {"message": "hello world!"}
 
 
 @app.post('/tokenize')
